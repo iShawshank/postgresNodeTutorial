@@ -171,6 +171,7 @@ Super easy all you need to do is run
 
 ```
 nvm install
+npm ci
 ```
 
 ### Running locally:
